@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Kiss You",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-11T13:47:08.041568Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kiss You All Over",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/01_Kiss_You_All_Over_Exile.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kiss You All Over (Album Version)",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/02_Kiss_You_All_Over_(Album_Version)_Exile.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Just Wanna Kiss You",
+      "artist": "Zoe Valderrama",
+      "has_synced": false,
+      "path": "select/03_I_Just_Wanna_Kiss_You_Zoe_Valderrama.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kiss You Better",
+      "artist": "Maxïmo Park",
+      "has_synced": true,
+      "path": "select/04_Kiss_You_Better_Maxïmo_Park.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let Me Kiss You",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/05_Let_Me_Kiss_You_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wanna Kiss You So (Christmas In a Nutshell)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/06_I_Wanna_Kiss_You_So_(Christmas_In_a_Nutshell)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kiss You All Over",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/07_Kiss_You_All_Over_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kiss You All Over",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/08_Kiss_You_All_Over_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(When I Kiss You) I Hear Charlie Parker Playing",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/09_(When_I_Kiss_You)_I_Hear_Charlie_Parker_Playing_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Hear Charlie Parker Playing (When I Kiss You)",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/10_I_Hear_Charlie_Parker_Playing_(When_I_Kiss_You)_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Kiss You",
+      "artist": "Cyndi Lauper",
+      "has_synced": false,
+      "path": "select/11_I_Kiss_You_Cyndi_Lauper.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Kiss You",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/12_I'll_Kiss_You_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kiss You Off",
+      "artist": "Scissor Sisters",
+      "has_synced": true,
+      "path": "select/13_Kiss_You_Off_Scissor_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kiss You Off - (Mr Oizo Remix)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/14_Kiss_You_Off_-_(Mr_Oizo_Remix)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Kiss You - Live",
+      "artist": "Cyndi Lauper",
+      "has_synced": false,
+      "path": "select/15_I'll_Kiss_You_-_Live_Cyndi_Lauper.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No Kiss You",
+      "artist": "Dad Feels",
+      "has_synced": true,
+      "path": "select/16_No_Kiss_You_Dad_Feels.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kiss You",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Kiss_You_One_Direction.txt"
+    }
+  ]
+}
